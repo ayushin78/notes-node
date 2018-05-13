@@ -1,0 +1,17 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayushi Negi",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "say": "^0.14.0",
+    "text-to-speech-js": "^1.1.8",
+    "yargs": "^11.0.0"
+  }
+}

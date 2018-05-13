@@ -1,0 +1,5 @@
+var stringObj = JSON.stringify(obj);
+var personObject = JSON.parse(personString);
+
+
+fs.writeFileSync('file name with extension', 'content to be added in the file');
